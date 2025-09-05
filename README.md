@@ -5,7 +5,8 @@ This project analyzes the Netflix Titles Dataset to uncover insights about movie
 
 📂 Dataset
 
-Source: Netflix Titles dataset ("C:\Users\HP\Downloads\netflix_titles.csv")
+Source: Netflix Titles Dataset
+ 🔗
 
 Rows: ~8,800
 
